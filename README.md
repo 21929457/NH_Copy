@@ -13,7 +13,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aos-0769AD?style=for-the-badge&logo=aos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aos-1572B6?style=for-the-badge&logo=aos&logoColor=white"/>
 </div>
 
 <div>ps.NH농협리츠운용 원본 사이트 링크입니다. 유사도를 비교할 수 있습니다.</div>
